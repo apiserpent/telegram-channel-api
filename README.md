@@ -1,3 +1,5 @@
+**English** | [简体中文](README.zh-CN.md)
+
 # Telegram Channel API
 
 Read any public Telegram channel: subscriber count, description and recent posts with views and reactions as JSON.
